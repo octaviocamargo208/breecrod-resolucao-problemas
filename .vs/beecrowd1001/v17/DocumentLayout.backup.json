@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\octav\\Documents\\Estudos\\C#\\Udemy\\logica_programacao_CSharp\\beecrowd1001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654598C7-FCE3-4B75-B843-6B1AC810C7E6}|beecrowd1001\\beecrowd1001.csproj|c:\\users\\octav\\documents\\estudos\\c#\\udemy\\logica_programacao_csharp\\beecrowd1001\\beecrowd1001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654598C7-FCE3-4B75-B843-6B1AC810C7E6}|beecrowd1001\\beecrowd1001.csproj|solutionrelative:beecrowd1001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\octav\\Documents\\Estudos\\C#\\Udemy\\logica_programacao_CSharp\\beecrowd1001\\beecrowd1001\\Program.cs",
+              "RelativeDocumentMoniker": "beecrowd1001\\Program.cs",
+              "ToolTip": "C:\\Users\\octav\\Documents\\Estudos\\C#\\Udemy\\logica_programacao_CSharp\\beecrowd1001\\beecrowd1001\\Program.cs",
+              "RelativeToolTip": "beecrowd1001\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:43:25.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
